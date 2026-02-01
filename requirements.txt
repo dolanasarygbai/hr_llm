@@ -1,0 +1,6 @@
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+pypdf>=3.17.0
+langchain-classic>=0.1.0
+ollama>=0.2.0  # для работы с локальной моделью через Ollama
+langchain>=0.3.0
