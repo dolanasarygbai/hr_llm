@@ -13,4 +13,4 @@
 
 Поместите файлы с именами, содержащими "vacancy" и "resume", в папку с проектом и запустите:
 ```bash
-python main.py
+python hr.py
